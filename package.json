@@ -1,7 +1,7 @@
 {
   "name": "befho2",
   "version": "1.0.0",
-  "description": "\"# backEndFoundationsHandsOnTwo\"",
+  "description": "\"# backEndFoundationsHandsOnThree\"",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rburger27/backEndFoundationsHandsOnTwo.git"
+    "url": "git+https://github.com/rburger27/backEndFoundationsHandsOnThree.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rburger27/backEndFoundationsHandsOnTwo/issues"
+    "url": "https://github.com/rburger27/backEndFoundationsHandsOnThree/issues"
   },
-  "homepage": "https://github.com/rburger27/backEndFoundationsHandsOnTwo#readme",
+  "homepage": "https://github.com/rburger27/backEndFoundationsHandsOnThree#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
